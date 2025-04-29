@@ -55,4 +55,4 @@ st.write(
 )
 st.markdown("---")
 if st.button(":rocket: Let's play together and Discover Your Score Index"):
-    st.switch_page("//Users/seham/code/itseham1/social_anxiety/predicting_social_anxiety/social_anxiety/pages/app.py")
+    st.switch_page("app")
